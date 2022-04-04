@@ -1,2 +1,2 @@
 # courses
-Supplementary materials for my courses
+Supplementary materials for my courses.
